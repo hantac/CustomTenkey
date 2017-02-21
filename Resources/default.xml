@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeyMap name="GenericNumLockMap" permanent="true">
+    <GenericKeyProcess pkey="0x62" name="Num0" lkey="0x60" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x59" name="Num1" lkey="0x61" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5A" name="Num2" lkey="0x62" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5B" name="Num3" lkey="0x63" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5C" name="Num4" lkey="0x64" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5D" name="Num5" lkey="0x65" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5E" name="Num6" lkey="0x66" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5F" name="Num7" lkey="0x67" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x60" name="Num8" lkey="0x68" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x61" name="Num9" lkey="0x69" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x63" name="." lkey="0x6E" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x54" name="/" lkey="0x6F" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x55" name="*" lkey="0x6A" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x2A" name="=" lkey="0xBB" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x56" name="-" lkey="0x6D" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x57" name="+" lkey="0x6B" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x58" name="Enter" lkey="0x0D" ctrl="false" alt="false" shift="false"/>
+    <NumLockKeyProcess pkey="0x53" />
+    <GenericKeyProcess pkey="0x29" name="ESC" lkey="0x1B" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x1B" name="Cut" lkey="0x58" ctrl="true" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x06" name="Copy" lkey="0x43" ctrl="true" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x19" name="Paste" lkey="0x56" ctrl="true" alt="false" shift="false"/>
+    <NullKeyProcess pkey="0xA0" />
+    <NullKeyProcess pkey="0xA1" />
+    <NullKeyProcess pkey="0xA2" />
+    <NullKeyProcess pkey="0xA3" />
+    <NullKeyProcess pkey="0xA4" />
+    <NullKeyProcess pkey="0xA5" />
+  </KeyMap>
+  <KeyMap name="GenericNumUnlockMap" permanent="true">
+    <GenericKeyProcess pkey="0x62" name="Insert" lkey="0x2D" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x59" name="End" lkey="0x23" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5A" name="Down" lkey="0x28" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5B" name="PageDown" lkey="0x22" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5C" name="Left" lkey="0x25" ctrl="false" alt="false" shift="false"/>
+    <NullKeyProcess pkey="0x5D"/>
+    <GenericKeyProcess pkey="0x5E" name="Right" lkey="0x27" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x5F" name="Home" lkey="0x24" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x60" name="Up" lkey="0x26" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x61" name="PageUp" lkey="0x21" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x63" name="Delete" lkey="0x2E" ctrl="false" alt="false" shift="false"/>
+    <NullKeyProcess pkey="0x54"/>
+    <NullKeyProcess pkey="0x55"/>
+    <GenericKeyProcess pkey="0x2A" name="BS" lkey="0x08" ctrl="false" alt="false" shift="false"/>
+    <NullKeyProcess pkey="0x56"/>
+    <NullKeyProcess pkey="0x57"/>
+    <GenericKeyProcess pkey="0x58" name="Enter" lkey="0x0D" ctrl="false" alt="false" shift="false"/>
+    <NumLockKeyProcess pkey="0x53"/>
+    <GenericKeyProcess pkey="0x29" name="ESC" lkey="0x1B" ctrl="false" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x1B" name="Cut" lkey="0x58" ctrl="true" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x06" name="Copy" lkey="0x43" ctrl="true" alt="false" shift="false"/>
+    <GenericKeyProcess pkey="0x19" name="Paste" lkey="0x56" ctrl="true" alt="false" shift="false"/>
+    <NullKeyProcess pkey="0xA0"/>
+    <NullKeyProcess pkey="0xA1"/>
+    <NullKeyProcess pkey="0xA2"/>
+    <NullKeyProcess pkey="0xA3"/>
+    <NullKeyProcess pkey="0xA4"/>
+    <NullKeyProcess pkey="0xA5"/>
+  </KeyMap>
+</KeyMaps>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
